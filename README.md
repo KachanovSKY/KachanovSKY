@@ -11,5 +11,3 @@ About me
 Langage and tools 🔧
 
 Follow me 👀
-
-----
