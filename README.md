@@ -33,8 +33,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-0f1622?style=for-the-badge&logo=numpy&logoColor=4c74cc)
 ![Git](https://img.shields.io/badge/Git-0f1622?style=for-the-badge&logo=Git)
 ![Tableau](https://img.shields.io/badge/Tableau-0f1622?style=for-the-badge&logo=Tableau)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0f1622?style=for-the-badge&logo=scikit-learn&logoColor=fa9b38)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-0f1622?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0f1622?style=for-the-badge&logo=Apache%20Airflow&logoColor=e4351d)
 ![Linux](https://img.shields.io/badge/Linux-0f1622?style=for-the-badge&logo=linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-0f1622?style=for-the-badge&logo=Apple)
 </div>
