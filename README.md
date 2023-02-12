@@ -13,7 +13,6 @@
 *Свое свободное время трачу на изучение других языков программирования, читаю большое кол-во статей, а также люблю смотреть сериалы.*
 
 ---
-- Мой телеграмм для связи: https://t.me/tvoy_seler
 
 - Окончил курсы Аналитики Данных от **Karpov.Courses**:
 
@@ -45,7 +44,7 @@
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-0f1622?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tvoy_seler)
-[![Vkontakte](https://img.shields.io/badge/Instagram-0f1622?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/malchik_neprostoy)
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-0f1622?style=for-the-badge&logo=VK&logoColor=blue)](https://vk.com/malchik_neprostoy)
 [![Gmail](https://img.shields.io/badge/Gmail-0f1622?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/#inbox)
 [![Mail](https://img.shields.io/badge/Mail.ru-0f1622?style=for-the-badge&logo=Mail.ru&logoColor=orange)](https://e.mail.ru/inbox/?back=1)
 
