@@ -22,6 +22,12 @@
 
 ---
 
+## Окончил курсы Игрового Аналитики от **Edvice**:
+
+![Header](https://github.com/KachanovSKY/KachanovSKY/blob/main/assets/Certificate_GameAnalitic.jpg)
+
+---
+
 ## Description of repositories 🗃️
 
 - __data_analytics__ - Курсы по Аналитике Данных
