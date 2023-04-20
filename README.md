@@ -22,7 +22,7 @@
 
 ---
 
-## Окончил курсы Игрового Аналитики от **Edvice**:
+## Окончил курсы Игровой Аналитики от **Edvice**:
 
 ![Header](https://github.com/KachanovSKY/KachanovSKY/blob/main/assets/Certificate_GameAnalitic.jpg)
 
